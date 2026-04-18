@@ -1,29 +1,5 @@
-# AI SaaS Landing Page Website Template by Frontend Tribe
+👁‍🗨 Demo video:
 
-This is a starter template for the AI SaaS Landing Page video created by Frontend Tribe.
 
-## Getting Started
+https://github.com/user-attachments/assets/38cde464-424f-403d-be41-cfaa3c35fa8d
 
-First, install the dependencies:
-
-```bash
-npm install
-# or
-yarn
-# or
-pnpm install
-```
-
-Then, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open the provided URL with your browser to see the result and start coding along with the video tutorial.
-# circular-ai-saas-landing-page-with-nextjs-reactjs-tailwindcss-and-framer-motion
-# circular-ai-saas-landing-page-with-nextjs-reactjs-tailwindcss-and-framer-motion
